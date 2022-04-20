@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/tugaspemprog6/';
+    public $baseURL = 'http://localhost/pemograman6/';
 
     /**
      * --------------------------------------------------------------------------
